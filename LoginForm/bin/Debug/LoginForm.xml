@@ -1,0 +1,404 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+LoginForm
+</name>
+</assembly>
+<members>
+<member name="T:LoginForm.ventes_vbDataSet3.articleDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:LoginForm.ventes_vbDataSet3.articleRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:LoginForm.ventes_vbDataSet3.articleRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:LoginForm.ventes_vbDataSet3">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:LoginForm.ventes_vbDataSet3TableAdapters.articleTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:LoginForm.ventes_vbDataSet3TableAdapters.TableAdapterManager.UpdateUpdatedRows(LoginForm.ventes_vbDataSet3,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:LoginForm.ventes_vbDataSet3TableAdapters.TableAdapterManager.UpdateInsertedRows(LoginForm.ventes_vbDataSet3,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:LoginForm.ventes_vbDataSet3TableAdapters.TableAdapterManager.UpdateDeletedRows(LoginForm.ventes_vbDataSet3,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:LoginForm.ventes_vbDataSet3TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:LoginForm.ventes_vbDataSet3TableAdapters.TableAdapterManager.UpdateAll(LoginForm.ventes_vbDataSet3)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:LoginForm.ventes_vbDataSet3TableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:LoginForm.ventes_vbDataSet3TableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:LoginForm.ventes_vbDataSet3TableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="T:LoginForm.ventes_vbDataSet6.ventesDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:LoginForm.ventes_vbDataSet6.ventesRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:LoginForm.ventes_vbDataSet6.ventesRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:LoginForm.ventes_vbDataSet6">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:LoginForm.ventes_vbDataSet6TableAdapters.ventesTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:LoginForm.ventes_vbDataSet6TableAdapters.TableAdapterManager.UpdateUpdatedRows(LoginForm.ventes_vbDataSet6,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:LoginForm.ventes_vbDataSet6TableAdapters.TableAdapterManager.UpdateInsertedRows(LoginForm.ventes_vbDataSet6,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:LoginForm.ventes_vbDataSet6TableAdapters.TableAdapterManager.UpdateDeletedRows(LoginForm.ventes_vbDataSet6,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:LoginForm.ventes_vbDataSet6TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:LoginForm.ventes_vbDataSet6TableAdapters.TableAdapterManager.UpdateAll(LoginForm.ventes_vbDataSet6)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:LoginForm.ventes_vbDataSet6TableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:LoginForm.ventes_vbDataSet6TableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:LoginForm.ventes_vbDataSet6TableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="P:LoginForm.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:LoginForm.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:LoginForm.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="T:LoginForm.ventes_vbDataSet2.articleDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:LoginForm.ventes_vbDataSet2.articleRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:LoginForm.ventes_vbDataSet2.articleRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:LoginForm.ventes_vbDataSet2">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:LoginForm.ventes_vbDataSet2TableAdapters.articleTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:LoginForm.ventes_vbDataSet2TableAdapters.TableAdapterManager.UpdateUpdatedRows(LoginForm.ventes_vbDataSet2,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:LoginForm.ventes_vbDataSet2TableAdapters.TableAdapterManager.UpdateInsertedRows(LoginForm.ventes_vbDataSet2,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:LoginForm.ventes_vbDataSet2TableAdapters.TableAdapterManager.UpdateDeletedRows(LoginForm.ventes_vbDataSet2,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:LoginForm.ventes_vbDataSet2TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:LoginForm.ventes_vbDataSet2TableAdapters.TableAdapterManager.UpdateAll(LoginForm.ventes_vbDataSet2)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:LoginForm.ventes_vbDataSet2TableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:LoginForm.ventes_vbDataSet2TableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:LoginForm.ventes_vbDataSet2TableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="T:LoginForm.ventes_vbDataSet5.articleDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:LoginForm.ventes_vbDataSet5.ventesDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:LoginForm.ventes_vbDataSet5.articleRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:LoginForm.ventes_vbDataSet5.ventesRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:LoginForm.ventes_vbDataSet5.articleRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:LoginForm.ventes_vbDataSet5.ventesRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:LoginForm.ventes_vbDataSet5">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:LoginForm.ventes_vbDataSet5TableAdapters.articleTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:LoginForm.ventes_vbDataSet5TableAdapters.ventesTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:LoginForm.ventes_vbDataSet5TableAdapters.TableAdapterManager.UpdateUpdatedRows(LoginForm.ventes_vbDataSet5,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:LoginForm.ventes_vbDataSet5TableAdapters.TableAdapterManager.UpdateInsertedRows(LoginForm.ventes_vbDataSet5,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:LoginForm.ventes_vbDataSet5TableAdapters.TableAdapterManager.UpdateDeletedRows(LoginForm.ventes_vbDataSet5,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:LoginForm.ventes_vbDataSet5TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:LoginForm.ventes_vbDataSet5TableAdapters.TableAdapterManager.UpdateAll(LoginForm.ventes_vbDataSet5)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:LoginForm.ventes_vbDataSet5TableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:LoginForm.ventes_vbDataSet5TableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:LoginForm.ventes_vbDataSet5TableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="T:LoginForm.ventes_vbDataSet1.articleDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:LoginForm.ventes_vbDataSet1.articleRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:LoginForm.ventes_vbDataSet1.articleRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:LoginForm.ventes_vbDataSet1">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:LoginForm.ventes_vbDataSet1TableAdapters.articleTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:LoginForm.ventes_vbDataSet1TableAdapters.TableAdapterManager.UpdateUpdatedRows(LoginForm.ventes_vbDataSet1,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:LoginForm.ventes_vbDataSet1TableAdapters.TableAdapterManager.UpdateInsertedRows(LoginForm.ventes_vbDataSet1,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:LoginForm.ventes_vbDataSet1TableAdapters.TableAdapterManager.UpdateDeletedRows(LoginForm.ventes_vbDataSet1,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:LoginForm.ventes_vbDataSet1TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:LoginForm.ventes_vbDataSet1TableAdapters.TableAdapterManager.UpdateAll(LoginForm.ventes_vbDataSet1)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:LoginForm.ventes_vbDataSet1TableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:LoginForm.ventes_vbDataSet1TableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:LoginForm.ventes_vbDataSet1TableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="T:LoginForm.ventes_vbDataSet4.articleDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:LoginForm.ventes_vbDataSet4.articleRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:LoginForm.ventes_vbDataSet4.articleRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:LoginForm.ventes_vbDataSet4">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:LoginForm.ventes_vbDataSet4TableAdapters.articleTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:LoginForm.ventes_vbDataSet4TableAdapters.TableAdapterManager.UpdateUpdatedRows(LoginForm.ventes_vbDataSet4,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:LoginForm.ventes_vbDataSet4TableAdapters.TableAdapterManager.UpdateInsertedRows(LoginForm.ventes_vbDataSet4,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:LoginForm.ventes_vbDataSet4TableAdapters.TableAdapterManager.UpdateDeletedRows(LoginForm.ventes_vbDataSet4,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:LoginForm.ventes_vbDataSet4TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:LoginForm.ventes_vbDataSet4TableAdapters.TableAdapterManager.UpdateAll(LoginForm.ventes_vbDataSet4)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:LoginForm.ventes_vbDataSet4TableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:LoginForm.ventes_vbDataSet4TableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:LoginForm.ventes_vbDataSet4TableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="T:LoginForm.ventes_vbDataSet.articleDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:LoginForm.ventes_vbDataSet.articleRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:LoginForm.ventes_vbDataSet.articleRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:LoginForm.ventes_vbDataSet">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:LoginForm.ventes_vbDataSetTableAdapters.articleTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:LoginForm.ventes_vbDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(LoginForm.ventes_vbDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:LoginForm.ventes_vbDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(LoginForm.ventes_vbDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:LoginForm.ventes_vbDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(LoginForm.ventes_vbDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:LoginForm.ventes_vbDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:LoginForm.ventes_vbDataSetTableAdapters.TableAdapterManager.UpdateAll(LoginForm.ventes_vbDataSet)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:LoginForm.ventes_vbDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:LoginForm.ventes_vbDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:LoginForm.ventes_vbDataSetTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+</members>
+</doc>
